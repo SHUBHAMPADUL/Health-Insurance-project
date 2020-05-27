@@ -1,6 +1,6 @@
 class Example{
 int a=10;
-int b=20;
+int b=30;
 public void m1(){
 sysout("a:"+a);
 sysout("b:"+b);
